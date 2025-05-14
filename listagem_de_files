@@ -1,1 +1,7 @@
-nseioq
+# Sprites :
+elementos 4 (um sprite para cada elemento)
+inimigos 6(4 para inimigos base e 2 para chefes)
+tiles de estrada 6(2 simples e 4 curvas)
+tiles das combinações 34(4 de 1 elemento,10 de 2 elementos e 20 de 3 elementos)
+tile da cidade 1
+sprites de animais do cenário 4(passaros, peixes e animais genéricos
